@@ -1,0 +1,17 @@
+
+
+{
+    "profesores": [
+
+        {
+            "nombre": "Mario",
+            "apellido": "Luna"
+        },
+
+        {
+            "nombre": "Alex",
+            "apellido": "Zapata"
+        }
+    ]
+
+}

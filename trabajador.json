@@ -1,0 +1,33 @@
+
+
+{
+    "trabajador" : [
+        
+        {
+            "nombre": "Andrei",
+            "apellido": "Saavedra",
+            "id": "01"
+        },
+
+        {
+            "nombre": "Mario",
+            "apellido": "Luna",
+            "id": "02"
+        },
+
+        {
+            "nombre": "Alex",
+            "apellido": "Zapata",
+            "id": "03"
+        },
+
+
+        {
+            "nombre": "Deybi",
+            "apellido": "Arroyo",
+            "id": "04"
+        }
+    ]
+
+
+}
